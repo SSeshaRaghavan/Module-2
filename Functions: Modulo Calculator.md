@@ -13,7 +13,20 @@ To write a Python program that defines a function which accepts two values and r
 ## 🧾 Program
 
 Add code Here
+```
+#To write a Python program to convert the number 16 into its binary representation using built-in Python functions.
+def result(a, b):
+    print(a % b)
 
+x = int(input())
+y = int(input())
+result(x, y)    
+```
 ## Output
+![Screenshot 2025-05-03 110534](https://github.com/user-attachments/assets/ece388f1-084c-412d-a91d-547ccc4b7606)
+![image](https://github.com/user-attachments/assets/33006371-2d51-4464-9771-da39bd742596)
 
 ## Result
+10
+5
+0
