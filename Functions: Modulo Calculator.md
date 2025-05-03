@@ -28,5 +28,7 @@ result(x, y)
 
 ## Result
 10
+
 5
+
 0
