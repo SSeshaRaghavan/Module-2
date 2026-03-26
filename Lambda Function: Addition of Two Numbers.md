@@ -18,8 +18,7 @@ f = lambda a, b: a + b
 print(f(a, b))
 ```
 ## Output
-![Screenshot 2025-05-03 111140](https://github.com/user-attachments/assets/4da44b15-05e8-4c86-aeb7-0fbad7b3a4c5)
-![Screenshot 2025-05-03 111133](https://github.com/user-attachments/assets/b91e44b9-d685-42b2-875c-a80f13ad6ea1)
+<img width="461" height="186" alt="image" src="https://github.com/user-attachments/assets/5e10e779-fb56-43f0-bccf-881990362395" />
 
 ## Result
 100
