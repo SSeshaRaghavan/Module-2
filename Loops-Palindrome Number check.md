@@ -31,8 +31,7 @@ else:
     print(f"{num} is not a palindrome.")
 ```
 ## Output
-<img width="1133" height="354" alt="image" src="https://github.com/user-attachments/assets/471e60be-159d-4a6a-836f-4280203df213" />
+<img width="593" height="114" alt="image" src="https://github.com/user-attachments/assets/719d56c6-8c7f-4bfe-b9c6-1f09550e34fe" />
 
 ## Result
-Enter a number: 121
-121 is a palindrome.
+Thus, the program has been successfully executed.
