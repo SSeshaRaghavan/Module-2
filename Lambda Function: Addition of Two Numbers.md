@@ -21,6 +21,4 @@ print(f(a, b))
 <img width="461" height="186" alt="image" src="https://github.com/user-attachments/assets/5e10e779-fb56-43f0-bccf-881990362395" />
 
 ## Result
-100
-35
-135
+Thus, the program has been successfully executed.
