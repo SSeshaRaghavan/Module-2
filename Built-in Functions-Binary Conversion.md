@@ -16,7 +16,7 @@ a = 16
 print(bin(a))
 ```
 ## Output
-<img width="667" height="802" alt="image" src="https://github.com/user-attachments/assets/55e0fb26-ac5a-48b2-a004-acd0705a0f0a" />
+<img width="562" height="265" alt="image" src="https://github.com/user-attachments/assets/deaec9fd-0a50-442c-994b-2b523ff57918" />
 
 ## Result
 0b10000
