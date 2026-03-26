@@ -34,3 +34,5 @@ else:
 <img width="1133" height="354" alt="image" src="https://github.com/user-attachments/assets/471e60be-159d-4a6a-836f-4280203df213" />
 
 ## Result
+Enter a number: 121
+121 is a palindrome.
